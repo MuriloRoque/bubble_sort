@@ -4,7 +4,11 @@
 
 # Advanced Building Blocks - Bubble Sort
 
-This is a project made with Ruby that sorts numbers and strings with the Bubble Sort method.
+In this project we:
+
+- Used Ruby to implement the algorithm;
+- Built two bubble sort methods (bubble_sort and bubble_sort_by);
+- Tested the methods with two kinds of arrays: integers and strings.
 
 # What it does
 
