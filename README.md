@@ -1,6 +1,6 @@
 [![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Murilo-Click%20to%20Contact-brightgreen)](mailto:muriloengqui@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/MuriloRoquePai1?label=Follow%20Murilo%20on%20Twitter&style=social)](https://twitter.com/MuriloRoquePai1)
 
-[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Shabab-Click%20to%20Contact-brightgreen)](mailto:muriloengqui@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/MuriloRoquePai1?label=Follow%20Murilo%20on%20Twitter&style=social)](https://twitter.com/MuriloRoquePai1)
+[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Shabab-Click%20to%20Contact-brightgreen)](mailto:shababsaifi@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/shabab_ali?label=Follow%20Shabab%20on%20Twitter&style=social)](https://twitter.com/shabab_ali)
 
 # Advanced Building Blocks - Bubble Sort
 
@@ -22,7 +22,7 @@ Ruby
 
 You will be redirected to a webpage where you can provide a list of numbers or strings to be sorted when you run the code.
 
-## Author
+## Author 1
 
 Murilo Roque Paiva da Silva
 
@@ -31,6 +31,16 @@ Github: @MuriloRoque
 Twitter: @MuriloRoquePai1
 
 Linkedin: https://www.linkedin.com/in/murilo-roque-b1268741/
+
+## Author 2
+
+Shabab Ali
+
+Github: @alishabab
+
+Twitter: @shabab_ali
+
+Linkedin: https://www.linkedin.com/in/shababsaifi/
 
 ## 🤝 Contributing
 
