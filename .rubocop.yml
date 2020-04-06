@@ -1,5 +1,4 @@
 AllCops:
-  # DisabledByDefault: true
   Exclude:
     - "README.md"
     - "Guardfile"
@@ -49,6 +48,6 @@ Style/HashTransformValues:
   Enabled: true
 
 Lint/RaiseException:
-Enabled: true
+  Enabled: true
 Lint/StructNewOverride:
-Enabled: true
+  Enabled: true
