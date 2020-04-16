@@ -1,0 +1,55 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/muriloroque/Desktop/Microverse/Ruby/Advanced-Building-Blocks-Bubble-Sort/spec/bubble_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          7,
+          null,
+          null
+        ]
+      },
+      "/home/muriloroque/Desktop/Microverse/Ruby/Advanced-Building-Blocks-Bubble-Sort/bubble_sort.rb": {
+        "lines": [
+          1,
+          2,
+          12,
+          12,
+          60,
+          60,
+          null,
+          null,
+          2,
+          null,
+          null,
+          1,
+          2,
+          6,
+          6,
+          12,
+          12,
+          null,
+          null,
+          2,
+          null,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null
+        ]
+      }
+    },
+    "timestamp": 1587051331
+  }
+}
