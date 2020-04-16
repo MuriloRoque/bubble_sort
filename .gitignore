@@ -1,2 +1,2 @@
-/coverage
-/spec/spec_helper.rb
+./coverage
+spec/spec_helper.rb
