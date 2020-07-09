@@ -10,6 +10,8 @@ In this project we:
 - Built two bubble sort methods (bubble_sort and bubble_sort_by);
 - Tested the methods with two kinds of arrays: integers and strings.
 
+![screenshot](images/screenshot.png)
+
 # What it does
 
 This software sorts numbers and strings of a provided list.
@@ -28,13 +30,14 @@ You will be redirected to a webpage where you can provide a list of numbers or s
 
 ## Author 1
 
+
 Murilo Roque Paiva da Silva
 
-Github: @MuriloRoque
+Github: [@MuriloRoque](https://github.com/MuriloRoque)
 
-Twitter: @MuriloRoquePai1
+Twitter: [@MuriloRoquePai1](https://twitter.com/MuriloRoquePai1)
 
-Linkedin: https://www.linkedin.com/in/murilo-roque-b1268741/
+Linkedin: [MuriloRoque](https://www.linkedin.com/in/murilo-roque-b1268741/)
 
 ## Author 2
 
